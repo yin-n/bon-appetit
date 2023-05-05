@@ -1,12 +1,10 @@
-## Java Project Proposal
+## Proposal
 
 ### Title: Bon Appetit
 
 ### **Group Members**
 
-Yuejia Yin      N17211691    yy4669
-
-Yujie Zhu       N11817353    yz9461 
+Yuejia Yin Yujie Zhu       
 
 ### **Introduction**
 
